@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Arif</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Passionate Full Stack Developer</h3>
 
 
 ## 🙋‍♂️ About Me
