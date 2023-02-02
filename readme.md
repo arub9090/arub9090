@@ -4,13 +4,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Working on a **React App**
+- 🔭 I’m Working on a **Golang based Backend Project**
 
 - 🌱 I’m currently learning **<i>Data Structures and Algorithms</i>**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://)** -->
+ - 👨‍💻 All of my projects are available at **[My Portfolio](https://www.arifrubayet.com)**
 
 - ⚡ Fun fact **I love to go out for a Long Drive with my favorite Spotify Playlist**
 
