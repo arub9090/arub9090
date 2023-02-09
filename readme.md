@@ -45,4 +45,6 @@
 - 📫 The easiest way to reach me -> **aruba055@uottawa.ca** or <a href= "https://www.linkedin.com/in/arifrubayet/"><img src= "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 
-
+<h2>Fav quotes: </h2>
+<br/>
+<p> "Everyone is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid" </p>
